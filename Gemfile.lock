@@ -1,0 +1,11 @@
+GEM
+  remote: https://pages.github.com/versions.json/
+  specs:
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+
+BUNDLED WITH
+   2.1.2
