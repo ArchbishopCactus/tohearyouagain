@@ -1,2 +1,5 @@
 theme: jekyll-theme-console
-style: light
+style: dark
+header_pages:
+ - index.html
+ - archive.html
