@@ -1,1 +1,5 @@
 theme: jekyll-theme-console
+style: dark
+
+header_pages:
+	- index.md
