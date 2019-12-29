@@ -1,4 +1,4 @@
-theme: jekyll-theme-console
+remote_theme: jekyll-theme-console
 style: dark
 header_pages:
  - index.html
