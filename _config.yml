@@ -4,3 +4,4 @@ style: dark
 header_pages:
   - archive.html
   - index.html
+paginate: 5
