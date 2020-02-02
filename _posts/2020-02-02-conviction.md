@@ -5,8 +5,7 @@ post.date: 20-02-02
 post.time: 14:06
 ---
 
-**CONVICTION**
-
+**CONVICTION**  
 I found a deep cut on my finger today. I don't know how I got it, or even when.  
 Last night, I felt worse than I had felt for a long time. Suddenly, everything I had told myself to protect my heart from further torment disappeared. Repeating the words "nothing is worth this suffering" no longer worked.  
 Yesterday, I was supposed to be brave and face my greatest fear, to prove that I could get through this and be happy one day. I was supposed to be relaxed, friendly, and not act like the whole thing between you and I was a big deal. Instead, I hid behind a mask, saying not a single word, until I began feeling so sick that I ran away into my room. I started writing. And I wanted to cry, but I couldn't get myself to. I tried all night, but no tears ever came. They're all still inside me, scratching the walls of my heart and making me bleed.  
