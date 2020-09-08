@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "I'm coming for you, darling"
-permalink: /20-09-08/
+permalink: /20-09-08-darling/
 post.time: 20:22
 ---
 
