@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Distractions"
+post.date: 20-01-02
+post.time: 14:11
+---
+
+**DISTRACTIONS**  
+When I saw your name today, I shivered in a sudden cold, and felt rage and fear beginning to boil inside me. I paced around the room, trying my hardest not to make a fist-shaped dent in my wall. I dumped a pile of coffee and hot water into a cup, staying away from the sugar, hoping that the intense bitterness would snap me out of it.  
+Why do I become like this whenever I see evidence of your existence? Is it easier for you to remain an idea in my mind, just a loose and undefined abstraction of what you mean to me, leaving me ignorant of our history? Why can I not accept reality? Why can't I live without wishing **<span style="color:red">to hear you again?</span>**  
+I fill my head with noise to prevent my thoughts from creeping in. I pick up a pen to prevent my nails from scratching off my skin. Stop whispering to me! I know you're not really there. Leave me be. Don't tempt me with hope and fantasy. Don't hurt me. Just stay quiet and let me forget what's behind your mask. Then I can speak.  
+I drew some things. I'm trying to improve my design with some new ideas. I found a series by Piers Taylor and Caroline Quentin about contemporary residential architecture. Homes. It's really interesting! Have you watched it already? Your project this semester might benefit from it, as you are designing a whole town after all.  
+<img src="/contentassets/sketch1.jpeg" alt="Sketch 1" width="100%" max-width="600" margin="auto">  
+This one is pretty simple. I was trying to think of how I would use materials to create sound and interesting textures. These ideas are pretty lacking in context, so I should try to better integrate them into a realised floorplan and make them a bit more refined.  
+<img src="/contentassets/sketch2.jpeg" alt="Sketch 2" width="100%" max-width="600" margin="auto">  
+I like this page. I was wondering, "how should I route circulation through the spaces? And should I penetrate the existing walls and extend into the canal towpath?" I think it would be nice to have a really narrow outdoor corridor, with flowery vines hanging and crawling down the walls. But the whole site might not be big enough for that, and I don't want to detract from the size of the internal spaces. Hmm, maybe I can find a way to include something like this later on.  
+<img src="/contentassets/sketch3.jpeg" alt="Sketch 3" width="100%" max-width="600" margin="auto">  
+I realised that I never made any massing models, or really considered the arrangement of chunks of spaces. There are so many things you can do with a site, and the moment that you draw a plan, you're instantly locking yourself into a pathway of iterations. If you only have ambiguous pieces to move around and shuffle, you can keep things broad and ambitious while still exploring the implications of each approach. These sketches are meant to be a beginning of this, just trying to figure out the access down into the lower levels and how much space should really be underground.  
+<img src="/contentassets/sketch4.jpeg" alt="Sketch 4" width="100%" max-width="600" margin="auto">  
+I'm quite proud of these two. They're actually not my design, I saw them on one of the episodes of that show I mentioned earlier. I thought it was really nice how the internal spaces open out onto a series of long, inclined gardens that gradually fade into the background landscape as they get further away from the building. I think it's really telling of the kinds of contrast you can have in a natural space. It can be really neat and controlled, or wild and overgrown. It all depends on what you use it for!  
+Today, I'm going to make some progress on the floorplans and the massing models. I need to make a start on the digital model for our tech module as well, as even though it's a group project, I've taken the responsibility of completing it on my own. I don't want to leave it to the last minute.  
+I hope your holidays are going well! Don't forget about the group blogs. It seems a lot of people didn't even realise we were supposed to make one, so make sure you get in touch with your group and get some cool posts flowing. I should take care of that as well. Would it be really obvious if I used some of the content I've posted here? I think I'd like to keep my identity private here. Then again, who in my class would even know this place exists? Maybe I'll be safe.

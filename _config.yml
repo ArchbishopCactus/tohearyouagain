@@ -1,0 +1,8 @@
+remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-console
+plugins: [jekyll-paginate]
+style: dark
+header_pages:
+  - archive.html
+  - index.md
+paginate: 5
