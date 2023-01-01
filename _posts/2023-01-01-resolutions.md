@@ -7,7 +7,7 @@ post.time: 00:00
 
 **2023 — RESOLUTIONS**
 
-# Underscores below eliminated with backslashes due to Markdown
+// Underscores below eliminated with backslashes due to Markdown
 1\_\_\_For Blood,
 2\_\_\_For Glory,
 3\_\_\_For Honour,
