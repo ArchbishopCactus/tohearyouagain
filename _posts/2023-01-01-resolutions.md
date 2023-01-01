@@ -7,20 +7,21 @@ post.time: 00:00
 
 **2023 — RESOLUTIONS**
 
-1___For Blood,
-2___For Glory,
-3___For Honour,
+# Underscores below eliminated with backslashes due to Markdown
+1\_\_\_For Blood,
+2\_\_\_For Glory,
+3\_\_\_For Honour,
 
-4___For Duty,
-5___For Unity,
-6___For Destiny,
+4\_\_\_For Duty,
+5\_\_\_For Unity,
+6\_\_\_For Destiny,
 
-7___For Perseverance,
-8___For Autonomy,
-9___For Liberation,
-10__For Revelation.
+7\_\_\_For Perseverance,
+8\_\_\_For Autonomy,
+9\_\_\_For Liberation,
+10\_\_For Revelation.
 
-11__**Nothing is True;**
-12__**Everything is Permitted.**
+11\_\_**Nothing is True;**
+12\_\_**Everything is Permitted.**
 
-<img src="/contentassets/ACinsignia_whiteglow.png" width="100%" maxwidth="600" margin="auto">
+<img src="/contentassets/ACinsignia_whiteglow.png" width="100%" maxwidth="400" margin="auto">
