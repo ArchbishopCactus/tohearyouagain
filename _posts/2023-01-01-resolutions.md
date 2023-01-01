@@ -7,7 +7,6 @@ post.time: 00:00
 
 **2023 — RESOLUTIONS**
 
-// Underscores below eliminated with backslashes due to Markdown
 1\_\_\_For Blood,
 2\_\_\_For Glory,
 3\_\_\_For Honour,
@@ -24,4 +23,4 @@ post.time: 00:00
 11\_\_**Nothing is True;**
 12\_\_**Everything is Permitted.**
 
-<img src="/contentassets/ACinsignia_whiteglow.png" width="100%" maxwidth="400" margin="auto">
+<img src="/contentassets/ACinsignia_whiteglow.png" width="70%" maxwidth="400" margin="auto">
